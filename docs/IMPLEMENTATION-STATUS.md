@@ -1,4 +1,4 @@
-﻿# Implementation Status — 2026-11-19
+# Implementation Status — 2026-11-19
 
 ## Current milestone
 Bootstrap v0.1 — Structurally Validated
