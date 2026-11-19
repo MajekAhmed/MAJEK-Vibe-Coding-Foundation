@@ -1,0 +1,15 @@
+# Task Brief
+- ID / Title:
+- Status: Draft / Ready / In Progress / Blocked / Done
+- Owner/Agent:
+- Objective:
+- Context:
+- In scope:
+- Out of scope:
+- Constraints and assumptions:
+- Acceptance criteria:
+  - [ ]
+- Risks / approvals:
+- Validation plan:
+- Evidence / outputs:
+- Next action:

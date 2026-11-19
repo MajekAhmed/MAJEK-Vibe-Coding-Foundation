@@ -1,0 +1,1 @@
+# Changelog\n\n## 0.1.0 - Bootstrap\n- Initial project-neutral governance, standards, templates, and tool registry.\n- Validation and security automation pending.\n

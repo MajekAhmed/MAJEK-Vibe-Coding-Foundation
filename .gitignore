@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+**/service.json
+**/*secret*
+**/*credential*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Local state and generated files
+.opencode/
+.cursor/
+.vscode/
+.agent-local/
+node_modules/
+dist/
+build/
+coverage/
+test-results/
+playwright-report/
+__pycache__/
+.pytest_cache/
+.venv/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
